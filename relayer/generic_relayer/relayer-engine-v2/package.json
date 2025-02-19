@@ -17,12 +17,12 @@
   "author": "Joe Howarth",
   "license": "ISC",
   "dependencies": {
-    "@certusone/wormhole-sdk": "^0.9.21-beta.0",
+    "@certusone/wormhole-sdk": "^0.10.18",
     "@improbable-eng/grpc-web-node-http-transport": "^0.15.0",
     "@types/clone": "^2.1.1",
     "@types/koa": "^2.13.5",
     "clone": "^2.1.2",
-    "koa": "^2.14.1",
+    "koa": "^2.15.4",
     "koa-router": "^12.0.0",
     "relayer-engine": "github:wormhole-foundation/relayer-engine#7698ed6",
     "yargs": "^17.7.1"
