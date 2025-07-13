@@ -5,10 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@certusone/wormhole-sdk": "^0.9.12",
-    "@mysten/sui.js": "^0.32.2",
+    "@certusone/wormhole-sdk": "^0.10.18",
+    "@mysten/sui.js": "^0.54.1",
     "chai": "^4.3.7",
-    "mocha": "^10.2.0",
+    "mocha": "^11.0.1",
     "prettier": "^2.8.7",
     "ts-mocha": "^10.0.0",
     "ts-node": "^10.9.1",
